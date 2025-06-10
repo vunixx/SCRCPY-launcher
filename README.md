@@ -1,8 +1,9 @@
 # SCRCPY-launcher
 You can run scrcpy with launcher very easily!
 Welcome to scrcpy launcher!
-____________________________________
----------------\by: vunixx /--------------------
+_________________________________________________
+---------------\by: vunixx /---------------------
+Download launcher https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar
 ====================================
 HOW TO INSTALL LAUNCHER FOR SCRCPY
 --------------------------------------------------

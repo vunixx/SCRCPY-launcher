@@ -1,27 +1,51 @@
-# SCRCPY-launcher
-Welcome to scrcpy launcher!
-You can run scrcpy with launcher very easily!
-_________________________________________________
----------------\by: vunixx /---------------------
-Download launcher https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar
-====================================
-HOW TO INSTALL LAUNCHER FOR SCRCPY
---------------------------------------------------
-1. You must have a scrcpy file, don't have one yet? Please download it at https://github.com/Genymobile/scrcpy
-2. Copy/cut the [launcher-scrcpy.bat] and icon.ico files to the scrcpy folder. remember! do not copy/cut this folder so that the launcher is in the same folder as [scrcpy.exe]
-3. Click the [launcher-scrcpy.bat] file in the same folder as [scrcpy.exe]. You can run it easily!
-====================================
-need a shortcut to double click on windows? it's very easy!
---------------------------------------------------
-1. Right click the mouse on the [launcher-scrcpy.bat] file, then click create shortcut
-2. now you have a [launcher-scrcpy.bat - Shortcut], move it to your home screen
-3. add the logo that I have named the file with [icon.ico], 
-with:
------ Right click the mouse in the [launcher-scrcpy.bat - Shortcut]
------ Click property, and then click change icon
------ You will see an alert that the icon is not in this file, click ok/x
------ In the change icon window, click browse and it will automatically be in the scrcpy folder where you have added the launcher file and this icon.
------ Select [icon.ico] and click open. and then click ok
------ click apply and ok. Your shortcut is ready!
+# 📱 SCRCPY Launcher
 
+**Welcome to SCRCPY Launcher!**
+Run SCRCPY more easily with this simple launcher.
 
+---
+
+### 🔧 Features
+
+* Simple `.bat` launcher
+* Clean icon integration
+* Easy setup and shortcut creation
+* Works perfectly with original [SCRCPY](https://github.com/Genymobile/scrcpy)
+
+---
+
+### 📥 [Download SCRCPY Launcher](https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar)
+
+---
+
+### 📦 Installation Guide
+
+1. Download and extract the **SCRCPY Launcher** from the link above.
+2. Make sure you already have [SCRCPY](https://github.com/Genymobile/scrcpy) installed.
+3. Copy **`launcher-scrcpy.bat`** and **`icon.ico`** into the same folder where **`scrcpy.exe`** is located.
+4. Run `launcher-scrcpy.bat` — you're ready to go!
+
+> ⚠️ **Important:** Do not copy the entire folder. Only move the files into the SCRCPY folder directly.
+
+---
+
+### 🖱️ Create a Desktop Shortcut
+
+1. **Right-click** `launcher-scrcpy.bat` and choose **Create Shortcut**.
+2. Move the new shortcut (e.g. `launcher-scrcpy.bat - Shortcut`) to your **Desktop**.
+3. (Optional) Set a custom icon:
+
+   * Right-click the shortcut → **Properties**
+   * Click **Change Icon...**
+   * If a warning appears, click **OK**
+   * Click **Browse...** and select `icon.ico` from the SCRCPY folder
+   * Click **Open → OK → Apply → OK**
+
+Now you have a customized launcher with a shortcut on your desktop! 🎉
+
+---
+
+### 👤 Author
+Made with 💻 by **vunixx**
+
+---

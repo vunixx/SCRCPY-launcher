@@ -4,6 +4,14 @@
 Run SCRCPY more easily with this simple launcher.
 
 ---
+## 🖼️ Preview
+
+![Launcher Screenshot](screenshoot launcher.png)
+
+Atau:
+
+<img src="images/launcher-preview.png" alt="Launcher Preview" width="500"/>
+
 
 ### 🔧 Features
 

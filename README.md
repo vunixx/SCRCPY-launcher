@@ -10,6 +10,10 @@ Run SCRCPY more easily with this simple launcher.
 
 ### 🔧 Features
 
+* Custom display resolution
+* Custom FPS
+* Auto run fullscreen/not
+* auto always on top window/not
 * Simple `.bat` launcher
 * Clean icon integration
 * Easy setup and shortcut creation

@@ -2,6 +2,7 @@
 
 **Welcome to SCRCPY Launcher!**
 Run SCRCPY more easily with this simple launcher.
+Use with SCRCPY original!
 
 ---
 ## 🖼️ Preview
@@ -22,7 +23,9 @@ Run SCRCPY more easily with this simple launcher.
 ---
 
 ### 📥 Download SCRCPY Launcher
-☑[Download here!](https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar)
+☑ [Download launcher here!](https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar)
+### Need original SCRCPY?
+[SCRCPY original](https://github.com/Genymobile/scrcpy)
 
 ---
 

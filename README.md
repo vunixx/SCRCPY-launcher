@@ -21,7 +21,8 @@ Run SCRCPY more easily with this simple launcher.
 
 ---
 
-### 📥 [Download SCRCPY Launcher here!](https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar) ☑
+### 📥 Download SCRCPY Launcher here!
+[Download](https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar)☑
 
 ---
 

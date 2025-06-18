@@ -25,7 +25,7 @@ Use with SCRCPY original!
 ### 📥 Download SCRCPY Launcher
 ☑ [Download launcher here!](https://github.com/vunixx/SCRCPY-launcher/raw/refs/heads/main/scrcpy%20launcher.rar)
 ### Need original SCRCPY?
-[SCRCPY original](https://github.com/Genymobile/scrcpy)
+🌐 [SCRCPY original](https://github.com/Genymobile/scrcpy)
 
 ---
 
